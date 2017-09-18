@@ -1,0 +1,7 @@
+/Users/anastasia/Projects/csharp-sdk/PAYNLSDKNetStandard/bin/Debug/netstandard1.6/PAYNLSDKNetStandard.deps.json
+/Users/anastasia/Projects/csharp-sdk/PAYNLSDKNetStandard/bin/Debug/netstandard1.6/PAYNLSDKNetStandard.dll
+/Users/anastasia/Projects/csharp-sdk/PAYNLSDKNetStandard/bin/Debug/netstandard1.6/PAYNLSDKNetStandard.pdb
+/Users/anastasia/Projects/csharp-sdk/PAYNLSDKNetStandard/obj/Debug/netstandard1.6/PAYNLSDKNetStandard.csproj.CoreCompileInputs.cache
+/Users/anastasia/Projects/csharp-sdk/PAYNLSDKNetStandard/obj/Debug/netstandard1.6/PAYNLSDKNetStandard.AssemblyInfo.cs
+/Users/anastasia/Projects/csharp-sdk/PAYNLSDKNetStandard/obj/Debug/netstandard1.6/PAYNLSDKNetStandard.dll
+/Users/anastasia/Projects/csharp-sdk/PAYNLSDKNetStandard/obj/Debug/netstandard1.6/PAYNLSDKNetStandard.pdb
